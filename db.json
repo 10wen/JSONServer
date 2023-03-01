@@ -1,4 +1,6 @@
 {
-    "username": "DevinKong",
-    "info": "handsome boy"
+    "profile": {
+        "name": "DevinKong",
+        "info": "Handsome boy."
+    }
 }
