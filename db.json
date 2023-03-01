@@ -2,5 +2,8 @@
     "profile": {
         "name": "DevinKong",
         "info": "Handsome boy."
-    }
+    },
+    "posts": [
+        {"id": 1, "title": "title1"}
+    ]
 }
